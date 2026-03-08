@@ -1,0 +1,14 @@
+João;50000000000000000000
+Icaro;2000
+Selmini;10000
+Humberto;20000
+Surian;250000
+Flavio;15000
+Kayla;1500
+Gustavo;2000
+Madu;5000
+Pedro;40000
+Ihago;15000
+Ihan;90000
+Bolacha;35000
+Gelado;4800

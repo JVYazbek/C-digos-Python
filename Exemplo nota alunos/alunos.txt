@@ -1,0 +1,4 @@
+Ana Aparecida;10;8
+Antonio Roberto;2;4
+Betina Botox;10;3
+Humberto;5;3
